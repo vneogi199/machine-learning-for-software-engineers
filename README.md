@@ -88,19 +88,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Follow me
-I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
-
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
-
-I'm on the journey.
-
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck |
-
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
 
